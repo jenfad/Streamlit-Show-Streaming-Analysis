@@ -2,6 +2,10 @@
 
 A comprehensive multi-page Streamlit application for analyzing streaming platform data, user behavior, and content performance. Built with Python, Polars, and Plotly for fast data processing and interactive visualizations.
 
+[See a video here](https://github.com/user-attachments/files/21800110/streamlit-show-streaming-2025-08-15-10-08-68.webm.zip)
+
+<img width="746" height="359" alt="Screenshot of Show Streaming Dashboard" src="https://github.com/user-attachments/assets/08cec6f6-2a49-4645-bd5f-2d3158f696d6" />
+
 ## Features
 
 - **Streaming Overview**: High-level platform analytics and key performance metrics
